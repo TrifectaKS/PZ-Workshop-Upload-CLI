@@ -1,21 +1,15 @@
 ﻿using Json.Net;
-using System.Collections.Generic;
+using PzWorkshopUploaderCLI.Models;
 using System.IO;
 using System.Text;
 
 namespace PzWorkshopUploaderCLI
 {
-    public class Config
-    {
-        public bool validateTags = false;
-        public List<string> validTags = new List<string>();
-    }
-
     [System.Serializable]
-    public class ConfigParser
+    internal class ConfigParser
     {
         public const string filename = "config.json";
-        
+
         public static Config Load()
         {
             string jsonString = File.ReadAllText(filename, Encoding.UTF8);

@@ -1,23 +1,11 @@
-﻿using Steamworks;
+﻿using PzWorkshopUploaderCLI.Models;
 using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.IO;
-using System.Linq;
-using System.Runtime.InteropServices;
 using System.Text;
 
 namespace PzWorkshopUploaderCLI
 {
-    class WorkshopFileData
-    {
-        public string Id { get; set; }
-        public string Title { get; set; }
-        public string Description { get; set; }
-        public IList<string> Tags { get; set; }
-        public int Visibility { get; set; } 
-    }
-
     internal class WorkshopFileParser
     {
         public static WorkshopFileData Parse(string path)
