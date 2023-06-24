@@ -1,0 +1,10 @@
+C:\Users\kimsc\source\repos\PZ-Workshop-Upload-CLI\PzWorkshopUploaderCLI\PzWorkshopUploaderCLI\obj\x64\Debug\PzWorkshopUploaderCLI.csproj.AssemblyReference.cache
+C:\Users\kimsc\source\repos\PZ-Workshop-Upload-CLI\PzWorkshopUploaderCLI\PzWorkshopUploaderCLI\obj\x64\Debug\PzWorkshopUploaderCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\kimsc\source\repos\PZ-Workshop-Upload-CLI\PzWorkshopUploaderCLI\PzWorkshopUploaderCLI\obj\x64\Debug\PzWorkshopUploaderCLI.csproj.CoreCompileInputs.cache
+C:\Users\kimsc\source\repos\PZ-Workshop-Upload-CLI\PzWorkshopUploaderCLI\PzWorkshopUploaderCLI\bin\x64\Debug\PzWorkshopUploaderCLI.exe.config
+C:\Users\kimsc\source\repos\PZ-Workshop-Upload-CLI\PzWorkshopUploaderCLI\PzWorkshopUploaderCLI\bin\x64\Debug\PzWorkshopUploaderCLI.exe
+C:\Users\kimsc\source\repos\PZ-Workshop-Upload-CLI\PzWorkshopUploaderCLI\PzWorkshopUploaderCLI\bin\x64\Debug\PzWorkshopUploaderCLI.pdb
+C:\Users\kimsc\source\repos\PZ-Workshop-Upload-CLI\PzWorkshopUploaderCLI\PzWorkshopUploaderCLI\bin\x64\Debug\Steamworks.NET.dll
+C:\Users\kimsc\source\repos\PZ-Workshop-Upload-CLI\PzWorkshopUploaderCLI\PzWorkshopUploaderCLI\obj\x64\Debug\PzWorkshopUploaderCLI.csproj.CopyComplete
+C:\Users\kimsc\source\repos\PZ-Workshop-Upload-CLI\PzWorkshopUploaderCLI\PzWorkshopUploaderCLI\obj\x64\Debug\PzWorkshopUploaderCLI.exe
+C:\Users\kimsc\source\repos\PZ-Workshop-Upload-CLI\PzWorkshopUploaderCLI\PzWorkshopUploaderCLI\obj\x64\Debug\PzWorkshopUploaderCLI.pdb
