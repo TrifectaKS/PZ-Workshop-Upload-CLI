@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 
-namespace PzWorkshopUploaderCLI
+namespace PzWorkshopUploaderCLI.Helpers
 {
     internal class WorkshopFileParser
     {

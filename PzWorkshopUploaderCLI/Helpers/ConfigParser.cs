@@ -3,9 +3,8 @@ using PzWorkshopUploaderCLI.Models;
 using System.IO;
 using System.Text;
 
-namespace PzWorkshopUploaderCLI
+namespace PzWorkshopUploaderCLI.Helpers
 {
-    [System.Serializable]
     internal class ConfigParser
     {
         public const string filename = "config.json";

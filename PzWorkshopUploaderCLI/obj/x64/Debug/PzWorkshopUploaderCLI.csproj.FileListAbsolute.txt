@@ -8,3 +8,4 @@ C:\Users\kimsc\source\repos\PZ-Workshop-Upload-CLI\PzWorkshopUploaderCLI\PzWorks
 C:\Users\kimsc\source\repos\PZ-Workshop-Upload-CLI\PzWorkshopUploaderCLI\PzWorkshopUploaderCLI\obj\x64\Debug\PzWorkshopUploaderCLI.csproj.CopyComplete
 C:\Users\kimsc\source\repos\PZ-Workshop-Upload-CLI\PzWorkshopUploaderCLI\PzWorkshopUploaderCLI\obj\x64\Debug\PzWorkshopUploaderCLI.exe
 C:\Users\kimsc\source\repos\PZ-Workshop-Upload-CLI\PzWorkshopUploaderCLI\PzWorkshopUploaderCLI\obj\x64\Debug\PzWorkshopUploaderCLI.pdb
+C:\Users\kimsc\source\repos\PZ-Workshop-Upload-CLI\PzWorkshopUploaderCLI\PzWorkshopUploaderCLI\bin\x64\Debug\Json.Net.dll

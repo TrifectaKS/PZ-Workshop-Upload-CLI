@@ -70,18 +70,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Config.cs" />
+    <Compile Include="Helpers\ConfigParser.cs" />
     <Compile Include="Models\Config.cs" />
     <Compile Include="Models\WorkshopFileData.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SteamManager.cs" />
-    <Compile Include="SteamWorkshopUploader.cs" />
-    <Compile Include="WorkshopFileParser.cs" />
+    <Compile Include="Steam\SteamManager.cs" />
+    <Compile Include="Steam\SteamWorkshopUploader.cs" />
+    <Compile Include="Helpers\WorkshopFileParser.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Config.json" />
+    <None Include="config.json" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
