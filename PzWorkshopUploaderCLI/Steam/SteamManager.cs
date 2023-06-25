@@ -74,7 +74,7 @@ namespace PzWorkshopUploaderCLI.Steam
             }
 
             //TODO HANDLE CB
-            /*ulong publishedItemId = createItemResult.m_nPublishedFileId;
+            ulong publishedItemId = createItemResult.m_nPublishedFileId;
 
             // Set item properties
             SteamUGC.SetItemTitle(new UGCUpdateHandle_t(publishedItemId), title);
@@ -108,8 +108,7 @@ namespace PzWorkshopUploaderCLI.Steam
                 await Task.Delay(10);
             }
             
-            return publishedItemId;*/
-            return 1;
+            return publishedItemId;
         }
 
         public static void UpdateWorkshopItem(ulong publishedFileId, string filePath)
